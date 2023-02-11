@@ -1,6 +1,10 @@
-# GitHub Blocks Template
+# Secretlint for GitHub Blocks
 
-Use this repository as a starter template for building your own Blocks.
+Edit with Secretlint for GitHub Blocks
+
+[Secretlint](https://github.com/secretlint/secretlint) is a pluggable linting tool to prevent committing credentials.
+
+
 ## Quickstart
 
 > 🛑 Currently, you must be flagged into the [GitHub Blocks Technical Preview](https://blocks.githubnext.com) in order to develop blocks. There is no "offline" development mode at this time.
