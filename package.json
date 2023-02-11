@@ -1,6 +1,6 @@
 {
   "name": "secretlint-blocks",
-  "version": "0.0.0",
+  "version": "6.2.3",
   "license": "MIT",
   "scripts": {
     "start": "blocks start",
