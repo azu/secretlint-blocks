@@ -1,5 +1,5 @@
 {
-  "name": "custom-block-template",
+  "name": "secretlint-blocks",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -8,7 +8,11 @@
     "build": "blocks build"
   },
   "dependencies": {
+    "@codemirror/lint": "^6.1.0",
     "@githubnext/blocks": "^2.3.5",
+    "@secretlint/core": "^6.2.3",
+    "@secretlint/secretlint-rule-preset-canary": "^6.2.3",
+    "codemirror": "^6.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
