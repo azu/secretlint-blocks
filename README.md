@@ -4,6 +4,12 @@ Edit with Secretlint for GitHub Blocks
 
 [Secretlint](https://github.com/secretlint/secretlint) is a pluggable linting tool to prevent committing credentials.
 
+You can use this block by pasting the following into a search block in GitHub:
+
+```
+https://github.com/azu/secretlint-blocks
+```
+
 
 ## Quickstart
 
